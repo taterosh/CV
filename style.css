@@ -14,6 +14,7 @@ body {
 
 .header__avatar {
   border-radius: 50%;
+  margin-left: 11px
 }
 
 .header__title {
@@ -28,6 +29,10 @@ body {
   font-size: 16px;
   line-height: 1.4;
   margin: 0;
+}
+
+p {
+  margin-left: 5px;
 }
 
 .links {
